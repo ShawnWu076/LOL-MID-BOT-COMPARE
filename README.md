@@ -1,4 +1,4 @@
-# **LOL_Mid_Bot_Comparison**
+# **LOL Mid Bot Comparison**
 
 by Shuang Wu (shw076@ucsd.edu) , Yacheng Xiao (yaxiao@ucsd.edu)
 
